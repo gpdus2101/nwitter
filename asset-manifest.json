@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/gpdus2101/nwitter/static/js/main.e5360d8e.chunk.js",
+    "main.js.map": "/gpdus2101/nwitter/static/js/main.e5360d8e.chunk.js.map",
+    "runtime-main.js": "/gpdus2101/nwitter/static/js/runtime-main.d9e08986.js",
+    "runtime-main.js.map": "/gpdus2101/nwitter/static/js/runtime-main.d9e08986.js.map",
+    "static/js/2.426f369d.chunk.js": "/gpdus2101/nwitter/static/js/2.426f369d.chunk.js",
+    "static/js/2.426f369d.chunk.js.map": "/gpdus2101/nwitter/static/js/2.426f369d.chunk.js.map",
+    "index.html": "/gpdus2101/nwitter/index.html",
+    "static/js/2.426f369d.chunk.js.LICENSE.txt": "/gpdus2101/nwitter/static/js/2.426f369d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d9e08986.js",
+    "static/js/2.426f369d.chunk.js",
+    "static/js/main.e5360d8e.chunk.js"
+  ]
+}

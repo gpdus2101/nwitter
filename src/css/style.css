@@ -28,8 +28,17 @@ nav li {
   display: inline-block;
 }
 
-nav li:last-child {
+nav li:nth-child(n + 2) {
   margin-left: 10px;
+}
+
+nav li:nth-child(n + 2)::before {
+  content: "";
+  display: inline-block;
+  width: 1px;
+  height: 10px;
+  background-color: #999;
+  margin-right: 10px;
 }
 
 nav li a {

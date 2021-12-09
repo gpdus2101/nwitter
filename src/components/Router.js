@@ -3,7 +3,7 @@ import {
   HashRouter as Router,
   Route,
   Switch,
-  Redirect,
+  // Redirect,
 } from "react-router-dom";
 import Auth from "routes/Auth";
 import Home from "routes/Home";

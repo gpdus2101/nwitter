@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/gpdus2101/nwitter/static/css/main.6d70098c.chunk.css",
-    "main.js": "/gpdus2101/nwitter/static/js/main.4d716280.chunk.js",
-    "main.js.map": "/gpdus2101/nwitter/static/js/main.4d716280.chunk.js.map",
+    "main.css": "/gpdus2101/nwitter/static/css/main.5bd1e962.chunk.css",
+    "main.js": "/gpdus2101/nwitter/static/js/main.b90ec8d8.chunk.js",
+    "main.js.map": "/gpdus2101/nwitter/static/js/main.b90ec8d8.chunk.js.map",
     "runtime-main.js": "/gpdus2101/nwitter/static/js/runtime-main.d9e08986.js",
     "runtime-main.js.map": "/gpdus2101/nwitter/static/js/runtime-main.d9e08986.js.map",
-    "static/js/2.f87d85f1.chunk.js": "/gpdus2101/nwitter/static/js/2.f87d85f1.chunk.js",
-    "static/js/2.f87d85f1.chunk.js.map": "/gpdus2101/nwitter/static/js/2.f87d85f1.chunk.js.map",
+    "static/js/2.412fd1c7.chunk.js": "/gpdus2101/nwitter/static/js/2.412fd1c7.chunk.js",
+    "static/js/2.412fd1c7.chunk.js.map": "/gpdus2101/nwitter/static/js/2.412fd1c7.chunk.js.map",
     "index.html": "/gpdus2101/nwitter/index.html",
-    "static/css/main.6d70098c.chunk.css.map": "/gpdus2101/nwitter/static/css/main.6d70098c.chunk.css.map",
-    "static/js/2.f87d85f1.chunk.js.LICENSE.txt": "/gpdus2101/nwitter/static/js/2.f87d85f1.chunk.js.LICENSE.txt"
+    "static/css/main.5bd1e962.chunk.css.map": "/gpdus2101/nwitter/static/css/main.5bd1e962.chunk.css.map",
+    "static/js/2.412fd1c7.chunk.js.LICENSE.txt": "/gpdus2101/nwitter/static/js/2.412fd1c7.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.d9e08986.js",
-    "static/js/2.f87d85f1.chunk.js",
-    "static/css/main.6d70098c.chunk.css",
-    "static/js/main.4d716280.chunk.js"
+    "static/js/2.412fd1c7.chunk.js",
+    "static/css/main.5bd1e962.chunk.css",
+    "static/js/main.b90ec8d8.chunk.js"
   ]
 }

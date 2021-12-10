@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/gpdus2101/nwitter.git/static/css/main.a1d339c0.chunk.css",
-    "main.js": "/gpdus2101/nwitter.git/static/js/main.994a46b1.chunk.js",
-    "main.js.map": "/gpdus2101/nwitter.git/static/js/main.994a46b1.chunk.js.map",
-    "runtime-main.js": "/gpdus2101/nwitter.git/static/js/runtime-main.467bedb3.js",
-    "runtime-main.js.map": "/gpdus2101/nwitter.git/static/js/runtime-main.467bedb3.js.map",
-    "static/js/2.eb1574c9.chunk.js": "/gpdus2101/nwitter.git/static/js/2.eb1574c9.chunk.js",
-    "static/js/2.eb1574c9.chunk.js.map": "/gpdus2101/nwitter.git/static/js/2.eb1574c9.chunk.js.map",
-    "index.html": "/gpdus2101/nwitter.git/index.html",
-    "static/css/main.a1d339c0.chunk.css.map": "/gpdus2101/nwitter.git/static/css/main.a1d339c0.chunk.css.map",
-    "static/js/2.eb1574c9.chunk.js.LICENSE.txt": "/gpdus2101/nwitter.git/static/js/2.eb1574c9.chunk.js.LICENSE.txt"
+    "main.css": "/gpdus2101/nwitter/static/css/main.a1d339c0.chunk.css",
+    "main.js": "/gpdus2101/nwitter/static/js/main.994a46b1.chunk.js",
+    "main.js.map": "/gpdus2101/nwitter/static/js/main.994a46b1.chunk.js.map",
+    "runtime-main.js": "/gpdus2101/nwitter/static/js/runtime-main.d9e08986.js",
+    "runtime-main.js.map": "/gpdus2101/nwitter/static/js/runtime-main.d9e08986.js.map",
+    "static/js/2.09746c11.chunk.js": "/gpdus2101/nwitter/static/js/2.09746c11.chunk.js",
+    "static/js/2.09746c11.chunk.js.map": "/gpdus2101/nwitter/static/js/2.09746c11.chunk.js.map",
+    "index.html": "/gpdus2101/nwitter/index.html",
+    "static/css/main.a1d339c0.chunk.css.map": "/gpdus2101/nwitter/static/css/main.a1d339c0.chunk.css.map",
+    "static/js/2.09746c11.chunk.js.LICENSE.txt": "/gpdus2101/nwitter/static/js/2.09746c11.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.467bedb3.js",
-    "static/js/2.eb1574c9.chunk.js",
+    "static/js/runtime-main.d9e08986.js",
+    "static/js/2.09746c11.chunk.js",
     "static/css/main.a1d339c0.chunk.css",
     "static/js/main.994a46b1.chunk.js"
   ]
